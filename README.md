@@ -36,18 +36,10 @@ Cada destino possui um card com imagem, descrição breve, botão "Saiba mais" e
 
 ## 📦 Estrutura de Pastas
 
-/
-├── index.html
-├── lib/
-│   ├── bootstrap.min.css
-│   └── bootstrap.bundle.min.js
-├── imagens/
-│   ├── paris.jpg
-│   ├── coreia.jpg
-│   ├── edimburgo.jpg
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   └── 3.jpg
+index.html
+lib/bootstrap.min.css
+lib/bootstrap.bundle.min.js
+imagens/
 
 ---
 
